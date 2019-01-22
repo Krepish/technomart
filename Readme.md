@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Мария Вершинина](https://up.htmlacademy.ru/htmlcss/24/user/1954).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Корелин](https://htmlacademy.ru/profile/maxzbest).
 
 ---
 
